@@ -1,4 +1,4 @@
-## AttendanceSystem-考勤
+## AttendanceSystem-考勤-
 
 [1.2.0源码](https://github.com/MJCoderMJCoder/AttendanceSystem/tree/versionName%EF%BC%9A1.2.0 "1.2.0源码")
 
@@ -12,6 +12,7 @@
 
 ### 国外用户
 [安装包（apk）下载](https://github.com/MJCoderMJCoder/AttendanceSystem/raw/master/release/app-release.apk "安装包下载（apk）")
+
 [AppStore/GooglePlay下载](https://github.com/MJCoderMJCoder/AttendanceSystem/raw/master/release/app-release.aab "AppStore/GooglePlay下载")
 
 [mailto:MJCoder@outlook.com](mailto:MJCoder@outlook.com)
