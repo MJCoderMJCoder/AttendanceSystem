@@ -1,4 +1,4 @@
-## AttendanceSystem-考勤-
+## AttendanceSystem-考勤-[已经移至最新的库，该库将不做维护](https://github.com/MJCoderMJCoder/AttendanceSystem-- "一定要移至最新的库，该库将不做维护")
 
 [1.2.0源码](https://github.com/MJCoderMJCoder/AttendanceSystem/tree/versionName%EF%BC%9A1.2.0 "1.2.0源码")
 
